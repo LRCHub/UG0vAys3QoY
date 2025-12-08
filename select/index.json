@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Lovers",
+  "base_artist": "sumika",
+  "createdAt": "2025-12-08T18:15:36.462615Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lonely Women Make Good Lovers",
+      "artist": "Bob Luman",
+      "has_synced": false,
+      "path": "select/01_Lonely_Women_Make_Good_Lovers_Bob_Luman.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lonely Women Make Good Lovers",
+      "artist": "Steve Wariner",
+      "has_synced": true,
+      "path": "select/02_Lonely_Women_Make_Good_Lovers_Steve_Wariner.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lover's Game",
+      "artist": "The War and Treaty",
+      "has_synced": false,
+      "path": "select/03_Lover's_Game_The_War_and_Treaty.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Lovers Live Longer",
+      "artist": "The Bellamy Brothers",
+      "has_synced": true,
+      "path": "select/04_Lovers_Live_Longer_The_Bellamy_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Too Many Lovers",
+      "artist": "Crystal Gayle",
+      "has_synced": true,
+      "path": "select/05_Too_Many_Lovers_Crystal_Gayle.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Young Lovers",
+      "artist": "Andrew Swift",
+      "has_synced": false,
+      "path": "select/06_Young_Lovers_Andrew_Swift.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Lovers In Japan / Reign of Love",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/07_Lovers_In_Japan___Reign_of_Love_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lovers In Japan, Reign Of Love",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/08_Lovers_In_Japan,_Reign_Of_Love_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Lovers",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/09_The_Lovers_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "My Lover's Box (Early Demo Mix)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/10_My_Lover's_Box_(Early_Demo_Mix)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "My Lovers Box (Early Demo Mix)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/11_My_Lovers_Box_(Early_Demo_Mix)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "A Long Walk Home for Parted Lovers",
+      "artist": "Yumi Zouma",
+      "has_synced": true,
+      "path": "select/12_A_Long_Walk_Home_for_Parted_Lovers_Yumi_Zouma.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "A Lovers Holiday (12\" Version)",
+      "artist": "Change",
+      "has_synced": false,
+      "path": "select/13_A_Lovers_Holiday_(12__Version)_Change.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Distant Lovers",
+      "artist": "Louis La Roche",
+      "has_synced": false,
+      "path": "select/14_Distant_Lovers_Louis_La_Roche.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Lovers and Friends",
+      "artist": "Lil Jon & The East Side Boyz feat. Usher & Ludacris",
+      "has_synced": false,
+      "path": "select/15_Lovers_and_Friends_Lil_Jon_&_The_East_Side_Boyz_feat._Usher_&_Ludacris.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Lovers Who Uncover",
+      "artist": "The Little Ones",
+      "has_synced": false,
+      "path": "select/16_Lovers_Who_Uncover_The_Little_Ones.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Lovers And Friends",
+      "artist": "Lil Jon & The East Side Boyz",
+      "has_synced": true,
+      "path": "select/17_Lovers_And_Friends_Lil_Jon_&_The_East_Side_Boyz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lovers",
+      "artist": "sumika",
+      "has_synced": false,
+      "path": "select/pl_01_Lovers_sumika.txt"
+    }
+  ]
+}
